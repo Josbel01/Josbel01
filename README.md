@@ -23,7 +23,7 @@ Estudiante de Desarrollo de Software en *ITLA*, enfocado en construir aplicacion
 - **[LinkUpPro](https://github.com/Josbel01/LinkUpPro)** — Red social con publicaciones, notificaciones y juego integrado (Onion Architecture, dos DbContexts)
 - **[eVote360 Pro](https://github.com/Josbel01/eVote360)** — Sistema de votación electrónica
 - **RealEstateApp** — Sistema de gestión inmobiliaria con 4 roles, autenticación dual (Cookie + JWT) y WebApi
-- **Artemis-Banking-Pro-ABP** — Sistema bancario full-stack, proyecto en equipo de 4 personas (en desarrollo)
+- **[Artemis-Banking-Pro-ABP](https://github.com/Josbel01/Artemis-Banking-Pro-ABP-)** — Sistema bancario full-stack, proyecto en equipo de 4 personas (en desarrollo)
 
 #  Contacto
 
