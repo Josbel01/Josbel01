@@ -2,10 +2,10 @@
 
 Estudiante de Desarrollo de Software en *ITLA*, enfocado en construir aplicaciones full-stack con *.NET* siguiendo buenas prácticas de arquitectura.
 
-- 🏗️ Construyo aplicaciones aplicando *Onion Architecture* de forma consistente.
+- Construyo aplicaciones aplicando *Onion Architecture* de forma consistente.
 - Junior full-stack .NET
-- 🌱 Aprendiendo colaboración en equipo con Git en proyectos reales.
-- 💬 Hablo español e inglés intermedio.
+- Aprendiendo colaboración en equipo con Git en proyectos reales.
+- Hablo español e inglés intermedio.
 
 ---
 
