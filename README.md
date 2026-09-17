@@ -1,6 +1,6 @@
-# ¡Hola! Soy Daferlin 👋
+# ¡Hola! Soy Daferlin 
 
-Estudiante de Desarrollo de Software en *ITLA* (7mo cuatrimestre), enfocado en construir aplicaciones full-stack con *.NET* siguiendo buenas prácticas de arquitectura.
+Estudiante de Desarrollo de Software en *ITLA*, enfocado en construir aplicaciones full-stack con *.NET* siguiendo buenas prácticas de arquitectura.
 
 - 🏗️ Construyo aplicaciones aplicando *Onion Architecture* de forma consistente.
 - Junior full-stack .NET
