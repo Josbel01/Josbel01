@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Daferlin 👋</h1>
+<h1 align="center">¡Hola! Soy Daferlin </h1>
 
 <h3 align="center">Junior .NET Developer | ITLA Student</h3>
 
@@ -35,7 +35,8 @@ Estudiante de Desarrollo de Software en **ITLA** (República Dominicana), apasio
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge)
-#### Herramientas & DevOps
+
+#### Herramientas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
