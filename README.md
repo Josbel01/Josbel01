@@ -1,146 +1,67 @@
-<h1 align="center">¡Hola! Soy Daferlin </h1>
-
-<h3 align="center">Junior .NET Developer | ITLA Student</h3>
+<h1 align="center">¡Hola! Soy Daferlin 👋</h1>
+<h3 align="center">Desarrollador Full-Stack .NET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Construyo+aplicaciones+.NET+con+arquitectura+limpia;Aprendiendo+cada+día+para+ser+un+gran+developer;Full-Stack+.NET+Developer" alt="Typing SVG" />
+  C# · ASP.NET Core · SQL Server · Onion Architecture<br>
+  San Pedro de Macorís, República Dominicana · Remoto, híbrido o presencial
+</p>
+
+<p align="center">
+  <a href="https://josbel01.github.io"><img src="https://img.shields.io/badge/Portafolio-josbel01.github.io-0F6E73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/daferlin-alvarez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alvarezdaferlin@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre Mí
+## 🧑‍💻 Sobre mí
 
-Estudiante de Desarrollo de Software en **ITLA** (República Dominicana), apasionado por construir aplicaciones full-stack con **ASP.NET Core** siguiendo buenas prácticas de arquitectura.
+Desarrollador full-stack especializado en **C# y .NET 9**. He construido **6 aplicaciones** web y móviles con ASP.NET Core MVC, Web API, Entity Framework Core y SQL Server.
 
-- 🔨 Construyo aplicaciones aplicando **Onion Architecture** de forma consistente
-- 🏦 Experiencia con proyectos de seguridad (JWT, Cookie Auth, Roles)
-- 🤝 Aprendiendo colaboración en equipo con **Git** en proyectos reales
-- 📚 Actualmente expandiendo mi stack con **Docker** y **CI/CD**
-- 🌐 Hablo español nativo e inglés intermedio
+- 🧅 Organizo mis soluciones con **Onion Architecture**
+- 🔐 Autenticación con **JWT, Identity y cookies**, con control de acceso por roles
+- 🤝 Trabajo en equipo con **Git y GitHub**: ramas, pull requests y versiones con tags
+- 📱 Ahora construyo **ColmadoYa**, una app de pedidos para colmados con .NET MAUI y una API propia
+- 🐳 Siguiente paso en mi stack: **Docker y CI/CD**
+- 🌐 Español nativo · Inglés intermedio-avanzado
+
+> 📩 Busco una posición de desarrollo **backend o full-stack .NET**. Si tienes una vacante o quieres conversar, escríbeme.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack
 
-<div align="center">
-
-#### Frontend & Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### Data & ORM
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge)
-
-#### Herramientas & DevOps
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏦 Artemis Banking Pro</h3>
-      <p align="center">
-        <a href="https://github.com/Josbel01/Artemis-Banking-Pro-ABP-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josbel01&repo=Artemis-Banking-Pro-ABP-&theme=chartreuse-dark&show_owner=true" alt="Artemis Banking" />
-        </a>
-      </p>
-      <p>Sistema bancario full-stack con <b>CQRS + MediatR</b>, <b>JWT</b>, y <b>Onion Architecture</b>. Proyecto en equipo de 4 desarrolladores.</p>
-      <p align="center"><b>Tecnologías:</b> ASP.NET Core • EF Core • SQL Server • JWT • MediatR • Git</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 RealEstate App</h3>
-      <p align="center">
-        <a href="https://github.com/Josbel01/RealEstateApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josbel01&repo=RealEstateApp&theme=chartreuse-dark&show_owner=true" alt="RealEstateApp" />
-        </a>
-      </p>
-      <p>Sistema de gestión inmobiliaria con <b>4 roles</b>, autenticación dual (Cookie + JWT), y <b>Web API RESTful</b>.</p>
-      <p align="center"><b>Tecnologías:</b> ASP.NET Core MVC • EF Core • SQL Server • JWT • Cookie Auth</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔗 LinkUpPro</h3>
-      <p align="center">
-        <a href="https://github.com/Josbel01/LinkUpPro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josbel01&repo=LinkUpPro&theme=chartreuse-dark&show_owner=true" alt="LinkUpPro" />
-        </a>
-      </p>
-      <p>Red social con publicaciones, notificaciones, chat y <b>juego integrado</b>. Usa <b>dos DbContexts</b> con Onion Architecture.</p>
-      <p align="center"><b>Tecnologías:</b> ASP.NET Core • EF Core • SQL Server • Onion Architecture</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗳️ eVote360</h3>
-      <p align="center">
-        <a href="https://github.com/Josbel01/eVote360">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josbel01&repo=eVote360&theme=chartreuse-dark&show_owner=true" alt="eVote360" />
-        </a>
-      </p>
-      <p>Sistema de <b>votación electrónica</b> seguro con autenticación, roles y auditoría de votos.</p>
-      <p align="center"><b>Tecnologías:</b> ASP.NET Core • EF Core • SQL Server • JWT • Identity</p>
-    </td>
-  </tr>
-</table>
+**Arquitectura y buenas prácticas:** Onion Architecture · Repository y Service genéricos · inyección de dependencias · MediatR · FluentValidation · AutoMapper · APIs REST
+**Seguridad:** ASP.NET Core Identity · JWT · cookies · autorización por roles
+**Herramientas:** Serilog · MailKit · Tesseract OCR · pruebas unitarias · Bootstrap
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Proyectos
 
-<div align="center">
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| 📱 [**ColmadoYa**](https://github.com/Josbel01/ColmadoYa) <br>*(en desarrollo)* | App móvil de pedidos para colmados, con API propia, login JWT y roles. Solución de 5 proyectos. | .NET MAUI · Web API · EF Core · SQL Server · JWT |
+| 🏠 [**RealEstateApp**](https://github.com/Josbel01/RealEstateApp) | Gestión de propiedades inmobiliarias. 4 roles y autenticación híbrida (cookies en MVC, JWT en la API). | ASP.NET Core MVC · Web API · Onion Architecture |
+| 🏦 [**Artemis Banking Pro**](https://github.com/Josbel01/Artemis-Banking-Pro-ABP-) | Sistema bancario hecho en equipo de 4. Usuarios, préstamos, tarjetas de crédito y cuentas de ahorro. | ASP.NET Core MVC · MediatR · FluentValidation · Serilog |
+| 🔗 [**LinkUpPro**](https://github.com/Josbel01/LinkUpPro) | Red social por módulos, con dos DbContexts, Identity y correos con MailKit. | ASP.NET Core MVC · Identity · AutoMapper · MailKit |
+| 🗳️ [**eVote360**](https://github.com/Josbel01/eVote360) | Votación electrónica con validación de documentos por OCR. 5 capas y 12 entidades de dominio. | ASP.NET Core MVC · Tesseract OCR · MailKit |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josbel01&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josbel01&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=5" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Josbel01&theme=chartreuse-dark&hide_border=true" alt="Streak Stats" />
-
-</div>
-
----
-
-## 🏆 Trofeos GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Josbel01&theme=chartreuse-dark&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+🌐 **Mira cómo explico cada proyecto (problema, arquitectura y retos) en mi portafolio: [josbel01.github.io](https://josbel01.github.io)**
 
 ---
 
 ## 📫 Contacto
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daferlin-alvarez/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarezdaferlin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josbel01)
-
-</div>
-
-<div align="center">
-
-> *"El código no miente, el código no se disculpa, el código es la verdad."* — Tony Hoare
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josbel01&color=512BD4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/daferlin-alvarez/)
+- ✉️ alvarezdaferlin@gmail.com
+- 🌐 [josbel01.github.io](https://josbel01.github.io)
